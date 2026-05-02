@@ -1,4 +1,4 @@
-# Project Documentation: Student & Course Management System
+
 
 ## 1. Project Overview
 This application is a Spring Boot based web system designed to manage relationships between **Students** and **Courses**. It implements full CRUD functionality and a custom join query to provide a seamless user experience.
